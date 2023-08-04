@@ -68,6 +68,7 @@ export const Main = () => {
         {diaAtual === 29 && <Proverbio29 />}
         {diaAtual === 30 && <Proverbio30 />}
         {diaAtual === 31 && <Proverbio31 />}
+        <Proverbio6 />
     </main>
   )
 }
