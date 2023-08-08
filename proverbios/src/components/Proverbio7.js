@@ -5,59 +5,59 @@ export const Proverbio7 = () => {
     <div>
       <h2>Provérbios 7</h2>
       <ol>
-      1 Meu filho, obedeça às minhas palavras e no íntimo guarde os meus mandamentos.
+        <li>Meu filho, obedeça às minhas palavras e no íntimo guarde os meus mandamentos.</li>
 
-2 Obedeça aos meus mandamentos, e você terá vida; guarde os meus ensinos como a pupila dos seus olhos.
+        <li>Obedeça aos meus mandamentos, e você terá vida; guarde os meus ensinos como a pupila dos seus olhos.</li>
 
-3 Amarre-os aos dedos; escreva-os na tábua do seu coração.
+        <li>Amarre-os aos dedos; escreva-os na tábua do seu coração.</li>
 
-4 Diga à sabedoria: "Você é minha irmã", e chame ao entendimento seu parente;
+        <li>Diga à sabedoria: "Você é minha irmã", e chame ao entendimento seu parente;</li>
 
-5 eles o manterão afastado da mulher imoral, da mulher leviana e suas palavras sedutoras.
+        <li>eles o manterão afastado da mulher imoral, da mulher leviana e suas palavras sedutoras.</li>
 
-6 Da janela de minha casa olhei através da grade
+        <li>Da janela de minha casa olhei através da grade</li>
 
-7 e vi entre os inexperientes, no meio dos jovens, um rapaz sem juízo.
+        <li>e vi entre os inexperientes, no meio dos jovens, um rapaz sem juízo.</li>
 
-8 Ele vinha pela rua, próximo à esquina de certa mulher, andando em direção à casa dela
+        <li>Ele vinha pela rua, próximo à esquina de certa mulher, andando em direção à casa dela</li>
 
-9 Era crepúsculo, o entardecer do dia, chegavam as sombras da noite, crescia a escuridão.
+        <li>Era crepúsculo, o entardecer do dia, chegavam as sombras da noite, crescia a escuridão.</li>
 
-10 A mulher veio então ao seu encontro, vestida como prostituta, cheia de astúcia no coração.
+        <li>A mulher veio então ao seu encontro, vestida como prostituta, cheia de astúcia no coração.</li>
 
-11 ( Ela é espalhafatosa e provocadora, seus pés nunca param em casa;
+        <li>( Ela é espalhafatosa e provocadora, seus pés nunca param em casa;</li>
 
-12 uma hora na rua, outra nas praças, em cada esquina fica à espreita. )
+        <li>uma hora na rua, outra nas praças, em cada esquina fica à espreita. )</li>
 
-13 Ela agarrou o rapaz, beijou-o e lhe disse descaradamente:
+        <li>Ela agarrou o rapaz, beijou-o e lhe disse descaradamente:</li>
 
-14 "Tenho em casa a carne dos sacrifícios de comunhão, que hoje fiz para cumprir os meus votos.
+        <li>"Tenho em casa a carne dos sacrifícios de comunhão, que hoje fiz para cumprir os meus votos.</li>
 
-15 Por isso saí para encontrá-lo; vim à sua procura e o encontrei!
+        <li>Por isso saí para encontrá-lo; vim à sua procura e o encontrei!</li>
 
-16 Estendi sobre o meu leito cobertas de linho fino do Egito.
+        <li>Estendi sobre o meu leito cobertas de linho fino do Egito.</li>
 
-17 Perfumei a minha cama com mirra, aloés e canela.
+        <li>Perfumei a minha cama com mirra, aloés e canela.</li>
 
-18 Venha, vamos embriagar-nos de carícias até o amanhecer; gozemos as delícias do amor!
+        <li>Venha, vamos embriagar-nos de carícias até o amanhecer; gozemos as delícias do amor!</li>
 
-19 Pois o meu marido não está em casa; partiu para uma longa viagem.
+        <li>Pois o meu marido não está em casa; partiu para uma longa viagem.</li>
 
-20 Levou uma bolsa cheia de prata e não voltará antes da lua cheia".
+        <li>Levou uma bolsa cheia de prata e não voltará antes da lua cheia".</li>
 
-21 Com a sedução das palavras o persuadiu, e o atraiu com o dulçor dos lábios.
+        <li>Com a sedução das palavras o persuadiu, e o atraiu com o dulçor dos lábios.</li>
 
-22 Imediatamente ele a seguiu como o boi levado ao matadouro, ou como o cervo que vai cair no laço
+        <li>Imediatamente ele a seguiu como o boi levado ao matadouro, ou como o cervo que vai cair no laço</li>
 
-23 até que uma flecha lhe atravesse o fígado, ou como o pássaro que salta para dentro do alçapão, sem saber que isso lhe custará a vida.
+        <li>até que uma flecha lhe atravesse o fígado, ou como o pássaro que salta para dentro do alçapão, sem saber que isso lhe custará a vida.</li>
 
-24 Então, meu filho, ouça-me; dê atenção às minhas palavras.
+        <li>Então, meu filho, ouça-me; dê atenção às minhas palavras.</li>
 
-25 Não deixe que o seu coração se volte para os caminhos dela, nem se perca em tais veredas.
+        <li>Não deixe que o seu coração se volte para os caminhos dela, nem se perca em tais veredas.</li>
 
-26 Muitas foram as suas vítimas; os que matou são uma grande multidão.
+        <li>Muitas foram as suas vítimas; os que matou são uma grande multidão.</li>
 
-27 A casa dela é um caminho que desce para a sepultura, para as moradas da morte.
+        <li>A casa dela é um caminho que desce para a sepultura, para as moradas da morte.</li>
       </ol>
     </div>
   )

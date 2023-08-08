@@ -3,61 +3,64 @@ import React from 'react'
 export const Proverbio12 = () => {
   return (
     <div>
-       Todo o que ama a disciplina ama o conhecimento, mas aquele que odeia a repreensão é tolo.
+      <h2>Provérbios 12</h2>
+      <ol>
+        <li>Todo o que ama a disciplina ama o conhecimento, mas aquele que odeia a repreensão é tolo.</li>
 
-2 O homem bom obtém o favor do Senhor, mas o homem que planeja maldades o Senhor condena.
+        <li>O homem bom obtém o favor do Senhor, mas o homem que planeja maldades o Senhor condena.</li>
 
-3 Ninguém consegue se firmar mediante a impiedade, e não se pode desarraigar o justo.
+        <li>Ninguém consegue se firmar mediante a impiedade, e não se pode desarraigar o justo.</li>
 
-4 A mulher exemplar é a coroa do seu marido, mas a de comportamento vergonhoso é como câncer em seus ossos.
+        <li>A mulher exemplar é a coroa do seu marido, mas a de comportamento vergonhoso é como câncer em seus ossos.</li>
 
-5 Os planos dos justos são retos, mas o conselho dos ímpios é enganoso.
+        <li>Os planos dos justos são retos, mas o conselho dos ímpios é enganoso.</li>
 
-6 As palavras dos ímpios são emboscadas mortais, mas quando os justos falam há livramento.
+        <li>As palavras dos ímpios são emboscadas mortais, mas quando os justos falam há livramento.</li>
 
-7 Os ímpios são derrubados e desaparecem, mas a casa dos justos permanece firme.
+        <li>Os ímpios são derrubados e desaparecem, mas a casa dos justos permanece firme.</li>
 
-8 O homem é louvado segundo a sua sabedoria, mas o que tem o coração perverso é desprezado.
+        <li>O homem é louvado segundo a sua sabedoria, mas o que tem o coração perverso é desprezado.</li>
 
-9 Melhor é não ser ninguém e, ainda assim, ter quem o sirva, do que fingir ser alguém e não ter comida.
+        <li>Melhor é não ser ninguém e, ainda assim, ter quem o sirva, do que fingir ser alguém e não ter comida.</li>
 
-10 O justo cuida bem dos seus rebanhos, mas até os atos mais bondosos dos ímpios são cruéis.
+        <li>O justo cuida bem dos seus rebanhos, mas até os atos mais bondosos dos ímpios são cruéis.</li>
 
-11 Quem trabalha a sua terra terá fartura de alimento, mas quem vai atrás de fantasias não tem juízo.
+        <li>Quem trabalha a sua terra terá fartura de alimento, mas quem vai atrás de fantasias não tem juízo.</li>
 
-12 Os ímpios cobiçam o despojo tomado pelos maus, mas a raiz do justo floresce.
+        <li>Os ímpios cobiçam o despojo tomado pelos maus, mas a raiz do justo floresce.</li>
 
-13 O mau se enreda no pecado do falar, mas o justo não cai nessas dificuldades.
+        <li>O mau se enreda no pecado do falar, mas o justo não cai nessas dificuldades.</li>
 
-14 Do fruto de sua boca o homem se beneficia, e o trabalho de suas mãos será recompensado.
+        <li>Do fruto de sua boca o homem se beneficia, e o trabalho de suas mãos será recompensado.</li>
 
-15 O caminho do insensato parece-lhe justo, mas o sábio ouve os conselhos.
+        <li>O caminho do insensato parece-lhe justo, mas o sábio ouve os conselhos.</li>
 
-16 O insensato revela de imediato o seu aborrecimento, mas o homem prudente ignora o insulto.
+        <li>O insensato revela de imediato o seu aborrecimento, mas o homem prudente ignora o insulto.</li>
 
-17 A testemunha fiel dá testemunho honesto, mas a testemunha falsa conta mentiras.
+        <li>A testemunha fiel dá testemunho honesto, mas a testemunha falsa conta mentiras.</li>
 
-18 Há palavras que ferem como espada, mas a língua dos sábios traz a cura.
+        <li>Há palavras que ferem como espada, mas a língua dos sábios traz a cura.</li>
 
-19 Os lábios que dizem a verdade permanecem para sempre, mas a língua mentirosa dura apenas um instante.
+        <li>Os lábios que dizem a verdade permanecem para sempre, mas a língua mentirosa dura apenas um instante.</li>
 
-20 O engano está no coração dos que maquinam o mal, mas a alegria está entre os que promovem a paz.
+        <li>O engano está no coração dos que maquinam o mal, mas a alegria está entre os que promovem a paz.</li>
 
-21 Nenhum mal atingirá o justo, mas os ímpios estão cobertos de problemas.
+        <li>Nenhum mal atingirá o justo, mas os ímpios estão cobertos de problemas.</li>
 
-22 O Senhor odeia os lábios mentirosos, mas se deleita com os que falam a verdade.
+        <li>O Senhor odeia os lábios mentirosos, mas se deleita com os que falam a verdade.</li>
 
-23 O homem prudente não alardeia o seu conhecimento, mas o coração dos tolos derrama insensatez.
+        <li>O homem prudente não alardeia o seu conhecimento, mas o coração dos tolos derrama insensatez.</li>
 
-24 As mãos diligentes governarão, mas os preguiçosos acabarão escravos.
+        <li>As mãos diligentes governarão, mas os preguiçosos acabarão escravos.</li>
 
-25 O coração ansioso deprime o homem, mas uma palavra bondosa o anima.
+        <li>O coração ansioso deprime o homem, mas uma palavra bondosa o anima.</li>
 
-26 O homem honesto é cauteloso em suas amizades, mas o caminho dos ímpios os leva a perder-se.
+        <li>O homem honesto é cauteloso em suas amizades, mas o caminho dos ímpios os leva a perder-se.</li>
 
-27 O preguiçoso não aproveita a sua caça, mas o diligente dá valor a seus bens.
+        <li>O preguiçoso não aproveita a sua caça, mas o diligente dá valor a seus bens.</li>
 
-28 No caminho da justiça está a vida; essa é a vereda que preserva da morte.
+        <li>No caminho da justiça está a vida; essa é a vereda que preserva da morte.</li>
+      </ol>
     </div>
   )
 }
