@@ -3,71 +3,74 @@ import React from 'react'
 export const Proverbio15 = () => {
   return (
     <div>
-       A resposta calma desvia a fúria, mas a palavra ríspida desperta a ira.
+      <h2>Provérbios 15</h2>
+      <ol>
+        <li>A resposta calma desvia a fúria, mas a palavra ríspida desperta a ira.</li>
 
-2 A língua dos sábios torna atraente o conhecimento, mas a boca dos tolos derrama insensatez.
+        <li>A língua dos sábios torna atraente o conhecimento, mas a boca dos tolos derrama insensatez.</li>
 
-3 Os olhos do Senhor estão em toda parte, observando atentamente os maus e os bons.
+        <li>Os olhos do Senhor estão em toda parte, observando atentamente os maus e os bons.</li>
 
-4 O falar amável é árvore de vida, mas o falar enganoso esmaga o espírito.
+        <li>O falar amável é árvore de vida, mas o falar enganoso esmaga o espírito.</li>
 
-5 O insensato faz pouco caso da disciplina de seu pai, mas quem acolhe a repreensão revela prudência.
+        <li>O insensato faz pouco caso da disciplina de seu pai, mas quem acolhe a repreensão revela prudência.</li>
 
-6 A casa do justo contém grande tesouro, mas os rendimentos dos ímpios lhes trazem inquietação.
+        <li>A casa do justo contém grande tesouro, mas os rendimentos dos ímpios lhes trazem inquietação.</li>
 
-7 As palavras dos sábios espalham conhecimento; mas o coração dos tolos não é assim.
+        <li>As palavras dos sábios espalham conhecimento; mas o coração dos tolos não é assim.</li>
 
-8 O Senhor detesta o sacrifício dos ímpios, mas a oração do justo o agrada.
+        <li>O Senhor detesta o sacrifício dos ímpios, mas a oração do justo o agrada.</li>
 
-9 O Senhor detesta o caminho dos ímpios, mas ama quem busca a justiça.
+        <li>O Senhor detesta o caminho dos ímpios, mas ama quem busca a justiça.</li>
 
-10 Há uma severa lição para quem abandona o seu caminho; quem despreza a repreensão morrerá.
+        <li>Há uma severa lição para quem abandona o seu caminho; quem despreza a repreensão morrerá.</li>
 
-11 A Sepultura e a Destruição estão abertas diante do Senhor; quanto mais os corações dos homens!
+        <li>A Sepultura e a Destruição estão abertas diante do Senhor; quanto mais os corações dos homens!</li>
 
-12 O zombador não gosta de quem o corrige, nem procura a ajuda do sábio.
+        <li>O zombador não gosta de quem o corrige, nem procura a ajuda do sábio.</li>
 
-13 A alegria do coração transparece no rosto, mas o coração angustiado oprime o espírito.
+        <li>A alegria do coração transparece no rosto, mas o coração angustiado oprime o espírito.</li>
 
-14 O coração que sabe discernir busca o conhecimento, mas a boca dos tolos alimenta-se de insensatez.
+        <li>O coração que sabe discernir busca o conhecimento, mas a boca dos tolos alimenta-se de insensatez.</li>
 
-15 Todos os dias do oprimido são infelizes, mas o coração bem disposto está sempre em festa.
+        <li>Todos os dias do oprimido são infelizes, mas o coração bem disposto está sempre em festa.</li>
 
-16 É melhor ter pouco com o temor do Senhor do que grande riqueza com inquietação.
+        <li>É melhor ter pouco com o temor do Senhor do que grande riqueza com inquietação.</li>
 
-17 É melhor ter verduras na refeição onde há amor do que um boi gordo acompanhado de ódio.
+        <li>É melhor ter verduras na refeição onde há amor do que um boi gordo acompanhado de ódio.</li>
 
-18 O homem irritável provoca dissensão, mas quem é paciente acalma a discussão.
+        <li>O homem irritável provoca dissensão, mas quem é paciente acalma a discussão.</li>
 
-19 O caminho do preguiçoso é cheio de espinhos, mas o caminho do justo é uma estrada plana.
+        <li>O caminho do preguiçoso é cheio de espinhos, mas o caminho do justo é uma estrada plana.</li>
 
-20 O filho sábio dá alegria a seu pai, mas o tolo despreza a sua mãe.
+        <li>O filho sábio dá alegria a seu pai, mas o tolo despreza a sua mãe.</li>
 
-21 A insensatez alegra quem não tem bom senso, mas o homem de entendimento procede com retidão.
+        <li>A insensatez alegra quem não tem bom senso, mas o homem de entendimento procede com retidão.</li>
 
-22 Os planos fracassam por falta de conselho, mas são bem sucedidos quando há muitos conselheiros.
+        <li>Os planos fracassam por falta de conselho, mas são bem sucedidos quando há muitos conselheiros.</li>
 
-23 Dar resposta apropriada é motivo de alegria; e como é bom um conselho na hora certa!
+        <li>Dar resposta apropriada é motivo de alegria; e como é bom um conselho na hora certa!</li>
 
-24 O caminho da vida conduz para cima quem é sensato, para que ele não desça à sepultura.
+        <li>O caminho da vida conduz para cima quem é sensato, para que ele não desça à sepultura.</li>
 
-25 O Senhor derruba a casa do orgulhoso, mas mantém intactos os limites da propriedade da viúva.
+        <li>O Senhor derruba a casa do orgulhoso, mas mantém intactos os limites da propriedade da viúva.</li>
 
-26 O Senhor detesta os pensamentos dos maus, mas se agrada de palavras sem maldade.
+        <li>O Senhor detesta os pensamentos dos maus, mas se agrada de palavras sem maldade.</li>
 
-27 O avarento põe sua família em apuros, mas quem repudia o suborno viverá.
+        <li>O avarento põe sua família em apuros, mas quem repudia o suborno viverá.</li>
 
-28 O justo pensa bem antes de responder, mas a boca dos ímpios jorra o mal.
+        <li>O justo pensa bem antes de responder, mas a boca dos ímpios jorra o mal.</li>
 
-29 O Senhor está longe dos ímpios, mas ouve a oração dos justos.
+        <li>O Senhor está longe dos ímpios, mas ouve a oração dos justos.</li>
 
-30 Um olhar animador dá alegria ao coração, e as boas notícias revigoram os ossos.
+        <li>Um olhar animador dá alegria ao coração, e as boas notícias revigoram os ossos.</li>
 
-31 Quem ouve a repreensão construtiva terá lugar permanente entre os sábios.
+        <li>Quem ouve a repreensão construtiva terá lugar permanente entre os sábios.</li>
 
-32 Quem recusa a disciplina faz pouco caso de si mesmo, mas quem ouve a repreensão obtém entendimento.
+        <li>Quem recusa a disciplina faz pouco caso de si mesmo, mas quem ouve a repreensão obtém entendimento.</li>
 
-33 O temor do Senhor ensina a sabedoria, e a humildade antecede a honra.
+        <li>O temor do Senhor ensina a sabedoria, e a humildade antecede a honra.</li>
+      </ol>
     </div>
   )
 }

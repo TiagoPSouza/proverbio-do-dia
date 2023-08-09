@@ -3,61 +3,64 @@ import React from 'react'
 export const Proverbio17 = () => {
   return (
     <div>
-      1 Melhor é um pedaço de pão seco com paz e tranqüilidade do que uma casa onde há banquetes, e muitas brigas.
+      <h2>Provérbios 17</h2>
+      <ol>
+        <li>Melhor é um pedaço de pão seco com paz e tranqüilidade do que uma casa onde há banquetes, e muitas brigas.</li>
 
-2 O servo sábio dominará sobre o filho de conduta vergonhosa, e participará da herança como um dos irmãos.
+        <li>O servo sábio dominará sobre o filho de conduta vergonhosa, e participará da herança como um dos irmãos.</li>
 
-3 O crisol é para a prata e o forno é para o ouro, mas o Senhor prova o coração.
+        <li>O crisol é para a prata e o forno é para o ouro, mas o Senhor prova o coração.</li>
 
-4 O ímpio dá atenção aos lábios maus; o mentiroso dá ouvidos à língua destruidora.
+        <li>O ímpio dá atenção aos lábios maus; o mentiroso dá ouvidos à língua destruidora.</li>
 
-5 Quem zomba dos pobres mostra desprezo pelo Criador deles; quem se alegra com a desgraça não ficará sem castigo.
+        <li>Quem zomba dos pobres mostra desprezo pelo Criador deles; quem se alegra com a desgraça não ficará sem castigo.</li>
 
-6 Os filhos dos filhos são uma coroa para os idosos, e os pais são o orgulho dos seus filhos.
+        <li>Os filhos dos filhos são uma coroa para os idosos, e os pais são o orgulho dos seus filhos.</li>
 
-7 Os lábios arrogantes não ficam bem ao insensato; muito menos os lábios mentirosos ao governante!
+        <li>Os lábios arrogantes não ficam bem ao insensato; muito menos os lábios mentirosos ao governante!</li>
 
-8 O suborno é um recurso fascinante para aquele que o oferece; aonde quer que vá, ele tem sucesso.
+        <li>O suborno é um recurso fascinante para aquele que o oferece; aonde quer que vá, ele tem sucesso.</li>
 
-9 Aquele que cobre uma ofensa promove amor, mas quem a lança em rosto separa bons amigos.
+        <li>Aquele que cobre uma ofensa promove amor, mas quem a lança em rosto separa bons amigos.</li>
 
-10 A repreensão faz marca mais profunda no homem de entendimento do que cem açoites no tolo.
+        <li>A repreensão faz marca mais profunda no homem de entendimento do que cem açoites no tolo.</li>
 
-11 O homem mau só pende para a rebeldia; por isso um oficial impiedoso será enviado contra ele.
+        <li>O homem mau só pende para a rebeldia; por isso um oficial impiedoso será enviado contra ele.</li>
 
-12 Melhor é encontrar uma ursa da qual roubaram os filhotes do que um tolo em sua insensatez.
+        <li>Melhor é encontrar uma ursa da qual roubaram os filhotes do que um tolo em sua insensatez.</li>
 
-13 Quem retribui o bem com o mal, jamais deixará de ter mal no seu lar.
+        <li>Quem retribui o bem com o mal, jamais deixará de ter mal no seu lar.</li>
 
-14 Começar uma discussão é como abrir brecha num dique; por isso resolva a questão antes que surja a contenda.
+        <li>Começar uma discussão é como abrir brecha num dique; por isso resolva a questão antes que surja a contenda.</li>
 
-15 Absolver o ímpio e condenar o justo, são coisas que o Senhor odeia.
+        <li>Absolver o ímpio e condenar o justo, são coisas que o Senhor odeia.</li>
 
-16 De que serve o dinheiro na mão do tolo, já que ele não quer obter sabedoria?
+        <li>De que serve o dinheiro na mão do tolo, já que ele não quer obter sabedoria?</li>
 
-17 O amigo ama em todos os momentos; é um irmão na adversidade.
+        <li>O amigo ama em todos os momentos; é um irmão na adversidade.</li>
 
-18 O homem sem juízo, com um aperto de mãos se compromete e se torna fiador do seu próximo.
+        <li>O homem sem juízo, com um aperto de mãos se compromete e se torna fiador do seu próximo.</li>
 
-19 Quem ama a discussão ama o pecado; quem constrói portas altas está procurando a sua ruína.
+        <li>Quem ama a discussão ama o pecado; quem constrói portas altas está procurando a sua ruína.</li>
 
-20 O homem de coração perverso não prospera, e o de língua enganosa cai na desgraça.
+        <li>O homem de coração perverso não prospera, e o de língua enganosa cai na desgraça.</li>
 
-21 O filho tolo só dá tristeza, e nenhuma alegria tem o pai do insensato.
+        <li>O filho tolo só dá tristeza, e nenhuma alegria tem o pai do insensato.</li>
 
-22 O coração bem disposto é remédio eficiente, mas o espírito oprimido resseca os ossos.
+        <li>O coração bem disposto é remédio eficiente, mas o espírito oprimido resseca os ossos.</li>
 
-23 O ímpio aceita às escondidas o suborno para desviar o curso da justiça.
+        <li>O ímpio aceita às escondidas o suborno para desviar o curso da justiça.</li>
 
-24 O homem de discernimento mantém a sabedoria em vista, mas os olhos do tolo perambulam até os confins da terra.
+        <li>O homem de discernimento mantém a sabedoria em vista, mas os olhos do tolo perambulam até os confins da terra.</li>
 
-25 O filho tolo é a tristeza do seu pai e a amargura daquela que o deu à luz.
+        <li>O filho tolo é a tristeza do seu pai e a amargura daquela que o deu à luz.</li>
 
-26 Não é bom castigar o inocente, nem açoitar quem merece ser honrado.
+        <li>Não é bom castigar o inocente, nem açoitar quem merece ser honrado.</li>
 
-27 Quem tem conhecimento é comedido no falar, e quem tem entendimento é de espírito sereno.
+        <li>Quem tem conhecimento é comedido no falar, e quem tem entendimento é de espírito sereno.</li>
 
-28 Até o insensato passará por sábio, se ficar quieto, e, se contiver a língua, parecerá que tem discernimento.
+        <li>Até o insensato passará por sábio, se ficar quieto, e, se contiver a língua, parecerá que tem discernimento.</li>
+      </ol>
     </div>
   )
 }
