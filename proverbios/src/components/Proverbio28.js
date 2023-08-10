@@ -3,61 +3,64 @@ import React from 'react'
 export const Proverbio28 = () => {
   return (
     <div>
-      1 O ímpio foge, embora ninguém o persiga, mas os justos são corajosos como o leão.
+      <h2>Provérbios 28</h2>
+      <ol>
+        <li>O ímpio foge, embora ninguém o persiga, mas os justos são corajosos como o leão.</li>
 
-2 Os pecados de uma nação fazem mudar sempre os seus governantes, mas a ordem se mantém com um líder sábio e sensato.
+        <li>Os pecados de uma nação fazem mudar sempre os seus governantes, mas a ordem se mantém com um líder sábio e sensato.</li>
 
-3 O pobre que se torna poderoso e oprime os pobres é como a tempestade súbita que destrói toda a plantação.
+        <li>O pobre que se torna poderoso e oprime os pobres é como a tempestade súbita que destrói toda a plantação.</li>
 
-4 Os que abandonam a lei elogiam os ímpios, mas os que obedecem à lei lutam contra eles.
+        <li>Os que abandonam a lei elogiam os ímpios, mas os que obedecem à lei lutam contra eles.</li>
 
-5 Os homens maus não entendem a justiça, mas os que buscam ao Senhor a entendem plenamente.
+        <li>Os homens maus não entendem a justiça, mas os que buscam ao Senhor a entendem plenamente.</li>
 
-6 Melhor é o pobre íntegro em sua conduta do que o rico perverso em seus caminhos.
+        <li>Melhor é o pobre íntegro em sua conduta do que o rico perverso em seus caminhos.</li>
 
-7 Quem obedece à lei é filho sábio, mas o companheiro dos glutões envergonha o pai.
+        <li>Quem obedece à lei é filho sábio, mas o companheiro dos glutões envergonha o pai.</li>
 
-8 Quem aumenta sua riqueza com juros exorbitantes ajunta para algum outro, que será bondoso com os pobres.
+        <li>Quem aumenta sua riqueza com juros exorbitantes ajunta para algum outro, que será bondoso com os pobres.</li>
 
-9 Se alguém se recusa a ouvir a lei, até suas orações serão detestáveis.
+        <li>Se alguém se recusa a ouvir a lei, até suas orações serão detestáveis.</li>
 
-10 Quem leva o homem direito pelo mau caminho cairá ele mesmo na armadilha que preparou, mas o que não se deixa corromper terá boa recompensa.
+        <li>Quem leva o homem direito pelo mau caminho cairá ele mesmo na armadilha que preparou, mas o que não se deixa corromper terá boa recompensa.</li>
 
-11 O rico pode até se julgar sábio, mas o pobre que tem discernimento o conhece a fundo.
+        <li>O rico pode até se julgar sábio, mas o pobre que tem discernimento o conhece a fundo.</li>
 
-12 Quando os justos triunfam, há prosperidade geral, mas, quando os ímpios sobem ao poder, os homens tratam de esconder-se.
+        <li>Quando os justos triunfam, há prosperidade geral, mas, quando os ímpios sobem ao poder, os homens tratam de esconder-se.</li>
 
-13 Quem esconde os seus pecados não prospera, mas quem os confessa e os abandona encontra misericórdia.
+        <li>Quem esconde os seus pecados não prospera, mas quem os confessa e os abandona encontra misericórdia.</li>
 
-14 Como é feliz o homem constante no temor do Senhor! Mas quem endurece o coração cairá na desgraça.
+        <li>Como é feliz o homem constante no temor do Senhor! Mas quem endurece o coração cairá na desgraça.</li>
 
-15 Como um leão que ruge ou um urso feroz é o ímpio que governa um povo necessitado.
+        <li>Como um leão que ruge ou um urso feroz é o ímpio que governa um povo necessitado.</li>
 
-16 O governante sem discernimento aumenta as opressões, mas os que odeiam o ganho desonesto prolongarão o seu governo.
+        <li>O governante sem discernimento aumenta as opressões, mas os que odeiam o ganho desonesto prolongarão o seu governo.</li>
 
-17 O assassino atormentado pela culpa será fugitivo até a morte; que ninguém o proteja!
+        <li>O assassino atormentado pela culpa será fugitivo até a morte; que ninguém o proteja!</li>
 
-18 Quem procede com integridade viverá seguro, mas quem procede com perversidade de repente cairá.
+        <li>Quem procede com integridade viverá seguro, mas quem procede com perversidade de repente cairá.</li>
 
-19 Quem lavra sua terra terá comida com fartura, mas quem persegue fantasias se fartará de miséria.
+        <li>Quem lavra sua terra terá comida com fartura, mas quem persegue fantasias se fartará de miséria.</li>
 
-20 O fiel será ricamente abençoado, mas quem tenta enriquecer-se depressa não ficará sem castigo.
+        <li>O fiel será ricamente abençoado, mas quem tenta enriquecer-se depressa não ficará sem castigo.</li>
 
-21 Agir com parcialidade não é bom; pois até por um pedaço de pão o homem se dispõe a fazer o mal.
+        <li>Agir com parcialidade não é bom; pois até por um pedaço de pão o homem se dispõe a fazer o mal.</li>
 
-22 O invejoso é ávido por riquezas, e não percebe que a pobreza o aguarda.
+        <li>O invejoso é ávido por riquezas, e não percebe que a pobreza o aguarda.</li>
 
-23 Quem repreende o próximo obterá por fim mais favor do que aquele que só sabe bajular.
+        <li>Quem repreende o próximo obterá por fim mais favor do que aquele que só sabe bajular.</li>
 
-24 Quem rouba seu pai ou sua mãe e diz: "Não é errado" é amigo de quem destrói.
+        <li>Quem rouba seu pai ou sua mãe e diz: "Não é errado" é amigo de quem destrói.</li>
 
-25 O ganancioso provoca brigas, mas quem confia no Senhor prosperará.
+        <li>O ganancioso provoca brigas, mas quem confia no Senhor prosperará.</li>
 
-26 Quem confia em si mesmo é insensato, mas quem anda segundo a sabedoria não corre perigo.
+        <li>Quem confia em si mesmo é insensato, mas quem anda segundo a sabedoria não corre perigo.</li>
 
-27 Quem dá aos pobres não passará necessidade, mas quem fecha os olhos para não vê-los sofrerá muitas maldições.
+        <li>Quem dá aos pobres não passará necessidade, mas quem fecha os olhos para não vê-los sofrerá muitas maldições.</li>
 
-28 Quando os ímpios sobem ao poder, o povo se esconde; mas, quando eles sucumbem, os justos florescem.
+        <li>Quando os ímpios sobem ao poder, o povo se esconde; mas, quando eles sucumbem, os justos florescem.</li>
+      </ol>
     </div>
   )
 }

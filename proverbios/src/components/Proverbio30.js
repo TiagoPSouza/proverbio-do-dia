@@ -3,71 +3,74 @@ import React from 'react'
 export const Proverbio30 = () => {
   return (
     <div>
-       Ditados de Agur, filho de Jaque; oráculo: Este homem declarou a Itiel; a Itiel e a Ucal:
+      <h2>Provérbios 30</h2>
+      <ol>
+        <li>Ditados de Agur, filho de Jaque; oráculo: Este homem declarou a Itiel; a Itiel e a Ucal:</li>
 
-2 "Sou o mais tolo dos homens; não tenho o entendimento de um ser humano.
+        <li>"Sou o mais tolo dos homens; não tenho o entendimento de um ser humano.</li>
 
-3 Não aprendi sabedoria, nem tenho conhecimento do Santo.
+        <li>Não aprendi sabedoria, nem tenho conhecimento do Santo.</li>
 
-4 Quem subiu aos céus e desceu? Quem ajuntou nas mãos os ventos? Quem embrulhou as águas em sua capa? Quem fixou todos os limites da terra? Qual é o seu nome, e o nome do seu filho? Conte-me, se você sabe!
+        <li>Quem subiu aos céus e desceu? Quem ajuntou nas mãos os ventos? Quem embrulhou as águas em sua capa? Quem fixou todos os limites da terra? Qual é o seu nome, e o nome do seu filho? Conte-me, se você sabe!</li>
 
-5 "Cada palavra de Deus é comprovadamente pura; ele é um escudo para quem nele se refugia.
+        <li>"Cada palavra de Deus é comprovadamente pura; ele é um escudo para quem nele se refugia.</li>
 
-6 Nada acrescente às palavras dele, do contrário, ele o repreenderá e mostrará que você é mentiroso.
+        <li>Nada acrescente às palavras dele, do contrário, ele o repreenderá e mostrará que você é mentiroso.</li>
 
-7 "Duas coisas peço que me dês antes que eu morra:
+        <li>"Duas coisas peço que me dês antes que eu morra:</li>
 
-8 Mantém longe de mim a falsidade e a mentira; Não me dês nem pobreza nem riqueza; dá-me apenas o alimento necessário.
+        <li>Mantém longe de mim a falsidade e a mentira; Não me dês nem pobreza nem riqueza; dá-me apenas o alimento necessário.</li>
 
-9 Se não, tendo demais, eu te negaria e te deixaria, e diria: ‘Quem é o Senhor? ’ Se eu ficasse pobre, poderia vir a roubar, desonrando assim o nome do meu Deus.
+        <li>Se não, tendo demais, eu te negaria e te deixaria, e diria: ‘Quem é o Senhor? ’ Se eu ficasse pobre, poderia vir a roubar, desonrando assim o nome do meu Deus.</li>
 
-10 "Não fale mal do servo ao seu senhor; do contrário, o servo o amaldiçoará, e você levará a culpa.
+        <li>"Não fale mal do servo ao seu senhor; do contrário, o servo o amaldiçoará, e você levará a culpa.</li>
 
-11 "Existem os que amaldiçoam seu pai e não abençoam sua mãe;
+        <li>"Existem os que amaldiçoam seu pai e não abençoam sua mãe;</li>
 
-12 os que são puros aos seus próprios olhos e que ainda não foram purificados da sua impureza;
+        <li>os que são puros aos seus próprios olhos e que ainda não foram purificados da sua impureza;</li>
 
-13 os que têm olhos altivos e olhar desdenhoso;
+        <li>os que têm olhos altivos e olhar desdenhoso;</li>
 
-14 pessoas cujos dentes são espadas e cujas mandíbulas estão armadas de facas para devorarem os necessitados desta terra e os pobres da humanidade.
+        <li>pessoas cujos dentes são espadas e cujas mandíbulas estão armadas de facas para devorarem os necessitados desta terra e os pobres da humanidade.</li>
 
-15 "Duas filhas tem a sanguessuga. ‘Dê! Dê! ’, gritam elas. "Há três coisas que nunca estão satisfeitas, quatro que nunca dizem: ‘É o bastante! ’:
+        <li>"Duas filhas tem a sanguessuga. ‘Dê! Dê! ’, gritam elas. "Há três coisas que nunca estão satisfeitas, quatro que nunca dizem: ‘É o bastante! ’:</li>
 
-16 O Sheol, o ventre estéril, a terra, que nunca se dessedenta, e o fogo, que nunca diz: ‘É o bastante! ’
+        <li>O Sheol, o ventre estéril, a terra, que nunca se dessedenta, e o fogo, que nunca diz: ‘É o bastante! ’</li>
 
-17 "Os olhos de quem zomba do pai, e, zombando, nega obediência à mãe, serão arrancados pelos corvos do vale, e serão devorados pelos filhotes do abutre.
+        <li>"Os olhos de quem zomba do pai, e, zombando, nega obediência à mãe, serão arrancados pelos corvos do vale, e serão devorados pelos filhotes do abutre.</li>
 
-18 "Há três coisas misteriosas demais para mim, quatro que não consigo entender:
+        <li>"Há três coisas misteriosas demais para mim, quatro que não consigo entender:</li>
 
-19 O caminho do abutre no céu, o caminho da serpente sobre a rocha, o caminho do navio em alto mar, e o caminho do homem com uma moça.
+        <li>O caminho do abutre no céu, o caminho da serpente sobre a rocha, o caminho do navio em alto mar, e o caminho do homem com uma moça.</li>
 
-20 "Este é o caminho da adúltera: Ela come e limpa a boca, e diz: ‘Não fiz nada de errado’.
+        <li>"Este é o caminho da adúltera: Ela come e limpa a boca, e diz: ‘Não fiz nada de errado’.</li>
 
-21 "Três coisas fazem tremer a terra, e quatro ela não pode suportar:
+        <li>"Três coisas fazem tremer a terra, e quatro ela não pode suportar:</li>
 
-22 O escravo que se torna rei, o insensato farto de comida,
+        <li>O escravo que se torna rei, o insensato farto de comida,</li>
 
-23 a mulher desprezada que por fim se casa, e a escrava que toma o lugar de sua senhora.
+        <li>a mulher desprezada que por fim se casa, e a escrava que toma o lugar de sua senhora.</li>
 
-24 "Quatro seres da terra são pequenos, e, no entanto, muito sábios:
+        <li>"Quatro seres da terra são pequenos, e, no entanto, muito sábios:</li>
 
-25 As formigas, criaturas de pouca força, contudo, armazenam sua comida no verão;
+        <li>As formigas, criaturas de pouca força, contudo, armazenam sua comida no verão;</li>
 
-26 os coelhos, criaturas sem nenhum poder, contudo, habitam nos penhascos;
+        <li>os coelhos, criaturas sem nenhum poder, contudo, habitam nos penhascos;</li>
 
-27 os gafanhotos, que não têm rei, contudo, avançam juntos em fileiras;
+        <li>os gafanhotos, que não têm rei, contudo, avançam juntos em fileiras;</li>
 
-28 a lagartixa, que se pode apanhar com as mãos, contudo, encontra-se nos palácios dos reis.
+        <li>a lagartixa, que se pode apanhar com as mãos, contudo, encontra-se nos palácios dos reis.</li>
 
-29 "Há três seres de andar elegante, quatro que se movem com passo garboso:
+        <li>"Há três seres de andar elegante, quatro que se movem com passo garboso:</li>
 
-30 O leão, que é poderoso entre os animais e não foge de ninguém;
+        <li>O leão, que é poderoso entre os animais e não foge de ninguém;</li>
 
-31 o galo de andar altivo; o bode; e o rei à frente do seu exército.
+        <li>o galo de andar altivo; o bode; e o rei à frente do seu exército.</li>
 
-32 "Se você agiu como tolo e exaltou-se a si mesmo, ou se planejou o mal, tape a boca com a mão!
+        <li>"Se você agiu como tolo e exaltou-se a si mesmo, ou se planejou o mal, tape a boca com a mão!</li>
 
-33 Pois assim como bater o leite produz manteiga, e assim como torcer o nariz produz sangue, também suscitar a raiva produz contenda".
+        <li>Pois assim como bater o leite produz manteiga, e assim como torcer o nariz produz sangue, também suscitar a raiva produz contenda".</li>
+      </ol>
     </div>
   )
 }

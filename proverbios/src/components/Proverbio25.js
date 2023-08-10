@@ -3,61 +3,64 @@ import React from 'react'
 export const Proverbio25 = () => {
   return (
     <div>
-      1 Estes são outros provérbios de Salomão, compilados pelos servos de Ezequias, rei de Judá:
+      <h2>Provérbios 25</h2>
+      <ol>
+        <li>Estes são outros provérbios de Salomão, compilados pelos servos de Ezequias, rei de Judá:</li>
 
-2 A glória de Deus é ocultar certas coisas; tentar descobri-las é a glória dos reis.
+        <li>A glória de Deus é ocultar certas coisas; tentar descobri-las é a glória dos reis.</li>
 
-3 Assim como o céu é elevado e a terra é profunda, também o coração dos reis é insondável.
+        <li>Assim como o céu é elevado e a terra é profunda, também o coração dos reis é insondável.</li>
 
-4 Quando se retira a escória da prata, nesta se tem material para o ourives;
+        <li>Quando se retira a escória da prata, nesta se tem material para o ourives;</li>
 
-5 quando os ímpios são retirados da presença do rei, a justiça firma o seu trono.
+        <li>quando os ímpios são retirados da presença do rei, a justiça firma o seu trono.</li>
 
-6 Não se engrandeça na presença do rei, e não reivindique lugar entre os homens importantes;
+        <li>Não se engrandeça na presença do rei, e não reivindique lugar entre os homens importantes;</li>
 
-7 é melhor que ele lhe diga: "Suba para cá! ", do que ter que humilhá-lo diante de uma autoridade. O que você viu com os olhos
+        <li>é melhor que ele lhe diga: "Suba para cá! ", do que ter que humilhá-lo diante de uma autoridade. O que você viu com os olhos</li>
 
-8 não leve precipitadamente ao tribunal, pois o que você fará, se o seu próximo o desacreditar?
+        <li>não leve precipitadamente ao tribunal, pois o que você fará, se o seu próximo o desacreditar?</li>
 
-9 Procure resolver sua causa diretamente com o seu próximo, e não revele o segredo de outra pessoa,
+        <li>Procure resolver sua causa diretamente com o seu próximo, e não revele o segredo de outra pessoa,</li>
 
-10 caso contrário, quem o ouvir poderá recriminá-lo e você jamais perderá sua má reputação.
+        <li>caso contrário, quem o ouvir poderá recriminá-lo e você jamais perderá sua má reputação.</li>
 
-11 A palavra proferida no tempo certo é como frutas de ouro incrustadas numa escultura de prata.
+        <li>A palavra proferida no tempo certo é como frutas de ouro incrustadas numa escultura de prata.</li>
 
-12 Como brinco de ouro e enfeite de ouro fino é a repreensão dada com sabedoria a quem se dispõe a ouvir.
+        <li>Como brinco de ouro e enfeite de ouro fino é a repreensão dada com sabedoria a quem se dispõe a ouvir.</li>
 
-13 Como o frescor da neve na época da colheita é o mensageiro de confiança para aqueles que o enviam; ele revigora o ânimo de seus senhores.
+        <li>Como o frescor da neve na época da colheita é o mensageiro de confiança para aqueles que o enviam; ele revigora o ânimo de seus senhores.</li>
 
-14 Como nuvens e ventos sem chuva é aquele que se gaba de presentes que não deu.
+        <li>Como nuvens e ventos sem chuva é aquele que se gaba de presentes que não deu.</li>
 
-15 Com muita paciência pode-se convencer a autoridade, e a língua branda quebra até ossos.
+        <li>Com muita paciência pode-se convencer a autoridade, e a língua branda quebra até ossos.</li>
 
-16 Se você encontrar mel, coma apenas o suficiente, para que não fique enjoado e vomite.
+        <li>Se você encontrar mel, coma apenas o suficiente, para que não fique enjoado e vomite.</li>
 
-17 Não faça visitas freqüentes à casa do seu vizinho para que ele não se canse de você e passe a odiá-lo.
+        <li>Não faça visitas freqüentes à casa do seu vizinho para que ele não se canse de você e passe a odiá-lo.</li>
 
-18 Como um pedaço de pau, uma espada ou uma flecha aguda é o que dá falso testemunho contra o seu próximo.
+        <li>Como um pedaço de pau, uma espada ou uma flecha aguda é o que dá falso testemunho contra o seu próximo.</li>
 
-19 Como dente estragado ou pé deslocado é a confiança no hipócrita na hora da dificuldade.
+        <li>Como dente estragado ou pé deslocado é a confiança no hipócrita na hora da dificuldade.</li>
 
-20 Como tirar a própria roupa num dia de frio, ou derramar vinagre numa ferida, é cantar com o coração entristecido.
+        <li>Como tirar a própria roupa num dia de frio, ou derramar vinagre numa ferida, é cantar com o coração entristecido.</li>
 
-21 Se o seu inimigo tiver fome, dê-lhe de comer; se tiver sede, dê-lhe de beber.
+        <li>Se o seu inimigo tiver fome, dê-lhe de comer; se tiver sede, dê-lhe de beber.</li>
 
-22 Fazendo isso, você amontoará brasas vivas sobre a cabeça dele, e o Senhor recompensará você.
+        <li>Fazendo isso, você amontoará brasas vivas sobre a cabeça dele, e o Senhor recompensará você.</li>
 
-23 Como o vento norte traz chuva, assim a língua fingida traz o olhar irado.
+        <li>Como o vento norte traz chuva, assim a língua fingida traz o olhar irado.</li>
 
-24 Melhor é viver num canto sob o telhado do que repartir a casa com uma mulher briguenta.
+        <li>Melhor é viver num canto sob o telhado do que repartir a casa com uma mulher briguenta.</li>
 
-25 Como água fresca para a garganta sedenta é a boa notícia que chega de uma terra distante.
+        <li>Como água fresca para a garganta sedenta é a boa notícia que chega de uma terra distante.</li>
 
-26 Como fonte contaminada ou nascente poluída, assim é o justo que fraqueja diante do ímpio.
+        <li>Como fonte contaminada ou nascente poluída, assim é o justo que fraqueja diante do ímpio.</li>
 
-27 Comer mel demais não é bom, nem é honroso buscar a própria honra.
+        <li>Comer mel demais não é bom, nem é honroso buscar a própria honra.</li>
 
-28 Como a cidade com seus muros derrubados, assim é quem não sabe dominar-se.
+        <li>Como a cidade com seus muros derrubados, assim é quem não sabe dominar-se.</li>
+      </ol>
     </div>
   )
 }

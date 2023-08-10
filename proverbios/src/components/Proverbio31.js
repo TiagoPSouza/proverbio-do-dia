@@ -3,69 +3,70 @@ import React from 'react'
 export const Proverbio31 = () => {
   return (
     <div>
-      1 Ditados do rei Lemuel; uma exortação que sua mãe lhe fez:
+      <h2>Proverbios 31</h2>
+      <ol>
+        <li>Ditados do rei Lemuel; uma exortação que sua mãe lhe fez:</li>
 
-2 "Ó meu filho, filho do meu ventre, filho de meus votos,
+        <li>"Ó meu filho, filho do meu ventre, filho de meus votos,</li>
 
-3 não gaste sua força com mulheres, seu vigor com aquelas que destroem reis.
+        <li>não gaste sua força com mulheres, seu vigor com aquelas que destroem reis.</li>
 
-4 "Não convém aos reis, ó Lemuel; não convém aos reis beber vinho, não convém aos governantes desejar bebida fermentada,
+        <li>"Não convém aos reis, ó Lemuel; não convém aos reis beber vinho, não convém aos governantes desejar bebida fermentada,</li>
 
-5 para não suceder que bebam e se esqueçam do que a lei determina, e deixem de fazer justiça aos oprimidos.
+        <li>para não suceder que bebam e se esqueçam do que a lei determina, e deixem de fazer justiça aos oprimidos.</li>
 
-6 Dê bebida fermentada aos que estão prestes a morrer, vinho aos que estão angustiados;
+        <li>Dê bebida fermentada aos que estão prestes a morrer, vinho aos que estão angustiados;</li>
 
-7 para que bebam e se esqueçam da sua pobreza, e não mais se lembrem da sua infelicidade.
+        <li>para que bebam e se esqueçam da sua pobreza, e não mais se lembrem da sua infelicidade.</li>
 
-8 "Erga a voz em favor dos que não podem defender-se, seja o defensor de todos os desamparados.
+        <li>"Erga a voz em favor dos que não podem defender-se, seja o defensor de todos os desamparados.</li>
 
-9 Erga a voz e julgue com justiça; defenda os direitos dos pobres e dos necessitados".
+        <li>Erga a voz e julgue com justiça; defenda os direitos dos pobres e dos necessitados".</li>
 
-10 Uma esposa exemplar; feliz quem a encontrar! É muito mais valiosa que os rubis.
+        <li>Uma esposa exemplar; feliz quem a encontrar! É muito mais valiosa que os rubis.</li>
 
-11 Seu marido tem plena confiança nela e nunca lhe falta coisa alguma.
+        <li>Seu marido tem plena confiança nela e nunca lhe falta coisa alguma.</li>
 
-12 Ela só lhe faz o bem, e nunca o mal, todos os dias da sua vida.
+        <li>Ela só lhe faz o bem, e nunca o mal, todos os dias da sua vida.</li>
 
-13 Escolhe a lã e o linho e com prazer trabalha com as mãos.
+        <li>Escolhe a lã e o linho e com prazer trabalha com as mãos.</li>
 
-14 Como os navios mercantes, ela traz de longe as suas provisões.
+        <li>Como os navios mercantes, ela traz de longe as suas provisões.</li>
 
-15 Antes de clarear o dia ela se levanta, prepara comida para todos os de casa, e dá tarefas as suas servas.
+        <li>Antes de clarear o dia ela se levanta, prepara comida para todos os de casa, e dá tarefas as suas servas.</li>
 
-16 Ela avalia um campo e o compra; com o que ganha planta uma vinha.
+        <li>Ela avalia um campo e o compra; com o que ganha planta uma vinha.</li>
 
-17 Entrega-se com vontade ao seu trabalho; seus braços são fortes e vigorosos.
+        <li>Entrega-se com vontade ao seu trabalho; seus braços são fortes e vigorosos.</li>
 
-18 Administra bem o seu comércio lucrativo, e a sua lâmpada fica acesa durante a noite.
+        <li>Administra bem o seu comércio lucrativo, e a sua lâmpada fica acesa durante a noite.</li>
 
-19 Nas mãos segura o fuso e com os dedos pega a roca.
+        <li>Nas mãos segura o fuso e com os dedos pega a roca.</li>
 
-20 Acolhe os necessitados e estende as mãos aos pobres.
+        <li>Acolhe os necessitados e estende as mãos aos pobres.</li>
 
-21 Não receia a neve por seus familiares, pois todos eles vestem agasalhos.
+        <li>Não receia a neve por seus familiares, pois todos eles vestem agasalhos.</li>
 
-22 Faz cobertas para a sua cama; veste-se de linho fino e de púrpura.
+        <li>Faz cobertas para a sua cama; veste-se de linho fino e de púrpura.</li>
 
-23 Seu marido é respeitado na porta da cidade, onde toma assento entre as autoridades da sua terra.
+        <li>Seu marido é respeitado na porta da cidade, onde toma assento entre as autoridades da sua terra.</li>
 
-24 Ela faz vestes de linho e as vende, e fornece cintos aos comerciantes.
+        <li>Ela faz vestes de linho e as vende, e fornece cintos aos comerciantes.</li>
 
-25 Reveste-se de força e dignidade; sorri diante do futuro.
+        <li>Reveste-se de força e dignidade; sorri diante do futuro.</li>
 
-26 Fala com sabedoria e ensina com amor.
+        <li>Fala com sabedoria e ensina com amor.</li>
 
-27 Cuida dos negócios de sua casa e não dá lugar à preguiça.
+        <li>Cuida dos negócios de sua casa e não dá lugar à preguiça.</li>
 
-28 Seus filhos se levantam e a elogiam; seu marido também a elogia, dizendo:
+        <li>Seus filhos se levantam e a elogiam; seu marido também a elogia, dizendo:</li>
 
-29 "Muitas mulheres são exemplares, mas você a todas supera".
+        <li>"Muitas mulheres são exemplares, mas você a todas supera".</li>
 
-30 A beleza é enganosa, e a formosura é passageira; mas a mulher que teme ao Senhor será elogiada.
+        <li>A beleza é enganosa, e a formosura é passageira; mas a mulher que teme ao Senhor será elogiada.</li>
 
-31 Que ela receba a recompensa merecida, e as suas obras sejam elogiadas à porta da cidade.
-
-
+        <li>Que ela receba a recompensa merecida, e as suas obras sejam elogiadas à porta da cidade.</li>
+      </ol>
     </div>
   )
 }

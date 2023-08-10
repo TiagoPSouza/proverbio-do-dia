@@ -3,59 +3,62 @@ import React from 'react'
 export const Proverbio27 = () => {
   return (
     <div>
-      1 Não se gabe do dia de amanhã, pois você não sabe o que este ou aquele dia poderá trazer.
+     <h2>Provérbios 27</h2>
+     <ol>
+      <li>Não se gabe do dia de amanhã, pois você não sabe o que este ou aquele dia poderá trazer.</li>
 
-2 Que outros façam elogios a você, não a sua própria boca; outras pessoas, não os seus próprios lábios.
+      <li>Que outros façam elogios a você, não a sua própria boca; outras pessoas, não os seus próprios lábios.</li>
 
-3 A pedra é pesada e a areia é um fardo, mas a irritação causada pelo insensato é mais pesada do que as duas juntas.
+      <li>A pedra é pesada e a areia é um fardo, mas a irritação causada pelo insensato é mais pesada do que as duas juntas.</li>
 
-4 O rancor é cruel e a fúria é destrutiva, mas quem consegue suportar a inveja?
+      <li>O rancor é cruel e a fúria é destrutiva, mas quem consegue suportar a inveja?</li>
 
-5 Melhor é a repreensão feita abertamente do que o amor oculto.
+      <li>Melhor é a repreensão feita abertamente do que o amor oculto.</li>
 
-6 Quem fere por amor mostra lealdade, mas o inimigo multiplica beijos.
+      <li>Quem fere por amor mostra lealdade, mas o inimigo multiplica beijos.</li>
 
-7 Quem está satisfeito despreza o mel, mas para quem tem fome até o amargo é doce.
+      <li>Quem está satisfeito despreza o mel, mas para quem tem fome até o amargo é doce.</li>
 
-8 Como a ave que vagueia longe do ninho, assim é o homem que vagueia longe do lar.
+      <li>Como a ave que vagueia longe do ninho, assim é o homem que vagueia longe do lar.</li>
 
-9 Perfume e incenso trazem alegria ao coração; do conselho sincero do homem nasce uma bela amizade.
+      <li>Perfume e incenso trazem alegria ao coração; do conselho sincero do homem nasce uma bela amizade.</li>
 
-10 Não abandone o seu amigo nem o amigo de seu pai; quando for atingido pela adversidade não vá para a casa de seu irmão; melhor é o vizinho próximo do que o irmão distante.
+      <li>Não abandone o seu amigo nem o amigo de seu pai; quando for atingido pela adversidade não vá para a casa de seu irmão; melhor é o vizinho próximo do que o irmão distante.</li>
 
-11 Seja sábio, meu filho, e traga alegria ao meu coração; poderei então responder a quem me desprezar.
+      <li>Seja sábio, meu filho, e traga alegria ao meu coração; poderei então responder a quem me desprezar.</li>
 
-12 O prudente percebe o perigo e busca refúgio; o inexperiente segue adiante e sofre as conseqüências.
+      <li>O prudente percebe o perigo e busca refúgio; o inexperiente segue adiante e sofre as conseqüências.</li>
 
-13 Tome-se a veste de quem serve de fiador ao estranho; sirva ela de penhor de quem dá garantia a uma mulher leviana.
+      <li>Tome-se a veste de quem serve de fiador ao estranho; sirva ela de penhor de quem dá garantia a uma mulher leviana.</li>
 
-14 A bênção dada aos gritos cedo de manhã, como maldição é recebida.
+      <li>A bênção dada aos gritos cedo de manhã, como maldição é recebida.</li>
 
-15 A esposa briguenta é como o gotejar constante num dia chuvoso;
+      <li>A esposa briguenta é como o gotejar constante num dia chuvoso;</li>
 
-16 detê-la é como deter o vento, como apanhar óleo com a mão.
+      <li>detê-la é como deter o vento, como apanhar óleo com a mão.</li>
 
-17 Assim como o ferro afia o ferro, o homem afia o seu companheiro.
+      <li>Assim como o ferro afia o ferro, o homem afia o seu companheiro.</li>
 
-18 Quem cuida de uma figueira comerá de seu fruto, e quem trata bem o seu senhor receberá tratamento de honra.
+      <li>Quem cuida de uma figueira comerá de seu fruto, e quem trata bem o seu senhor receberá tratamento de honra.</li>
 
-19 Assim como a água reflete o rosto, o coração reflete quem somos nós.
+      <li>Assim como a água reflete o rosto, o coração reflete quem somos nós.</li>
 
-20 O Sheol e a Destruição são insaciáveis, como insaciáveis são os olhos do homem.
+      <li>O Sheol e a Destruição são insaciáveis, como insaciáveis são os olhos do homem.</li>
 
-21 O crisol é para a prata e o forno é para o ouro, mas o que prova o homem são os elogios que recebe.
+      <li>O crisol é para a prata e o forno é para o ouro, mas o que prova o homem são os elogios que recebe.</li>
 
-22 Ainda que você moa o insensato, como trigo no pilão, a insensatez não se afastará dele.
+      <li>Ainda que você moa o insensato, como trigo no pilão, a insensatez não se afastará dele.</li>
 
-23 Esforce-se para saber bem como suas ovelhas estão, dê cuidadosa atenção aos seus rebanhos,
+      <li>Esforce-se para saber bem como suas ovelhas estão, dê cuidadosa atenção aos seus rebanhos,</li>
 
-24 pois as riquezas não duram para sempre, e nada garante que a coroa passe de uma geração a outra.
+      <li>pois as riquezas não duram para sempre, e nada garante que a coroa passe de uma geração a outra.</li>
 
-25 Quando o feno for retirado, surgirem novos brotos e o capim das colinas for colhido,
+      <li>Quando o feno for retirado, surgirem novos brotos e o capim das colinas for colhido,</li>
 
-26 os cordeiros lhe fornecerão roupa, e os bodes lhe renderão o preço de um campo.
+      <li>os cordeiros lhe fornecerão roupa, e os bodes lhe renderão o preço de um campo.</li>
 
-27 Haverá fartura de leite de cabra para alimentar você e sua família, e para sustentar as suas servas.
+      <li>Haverá fartura de leite de cabra para alimentar você e sua família, e para sustentar as suas servas.</li>
+     </ol>
     </div>
   )
 }
