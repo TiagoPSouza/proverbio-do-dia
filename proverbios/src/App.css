@@ -18,10 +18,22 @@ h2 {
     font-family: 'Bricolage Grotesque', sans-serif;
     font-weight: 400;
     font-size: 30px;
+    text-align: center;
+    padding: 15px;
 }
 
-p, li{
+p {
+    font-family: 'Bricolage Grotesque', sans-serif;
+}
+
+ol li{
     font-family: 'Bricolage Grotesque', sans-serif;
     font-weight: 300;
     font-size: 20px;
+    margin: 0 18px 10px 40px;
+}
+
+ol li::marker {
+    font-size: 18px;
+    font-weight: 400;
 }

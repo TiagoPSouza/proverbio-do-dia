@@ -1,5 +1,17 @@
 .containerHeader {
-    background: red;
+    background: #000;
     margin: 0;
     padding: 0;
+    color: #fff;
+}
+
+.containerHeader h1 {
+    text-align: center;
+    padding: 10px;
+}
+
+.containerHeader p {
+    font-size: 15px;
+    text-align: end;
+    padding: 10px;
 }

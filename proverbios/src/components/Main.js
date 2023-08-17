@@ -36,7 +36,6 @@ export const Main = () => {
   const diaAtual = new Date().getDate();
   return (
     <main className='containerMain'> 
-        <h2>componente main</h2>
         {diaAtual === 1 && <Proverbio1 />}
         {diaAtual === 2 && <Proverbio2 />}
         {diaAtual === 3 && <Proverbio3 />}
