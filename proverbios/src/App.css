@@ -1,39 +1,32 @@
 @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,200;10..48,300;10..48,400;10..48,500;10..48,600;10..48,700;10..48,800&display=swap');
 
-
-
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Bricolage Grotesque', sans-serif;
 }
 
 h1 {
-    font-family: 'Bricolage Grotesque', sans-serif;
     font-weight: 600;
-    font-size: 36px;
+    font-size: 35px;
 }
 
 h2 {
-    font-family: 'Bricolage Grotesque', sans-serif;
     font-weight: 400;
     font-size: 30px;
     text-align: center;
-    padding: 15px;
-}
-
-p {
-    font-family: 'Bricolage Grotesque', sans-serif;
+    padding: 10px 15px;
+    margin-top: 0;
 }
 
 ol li{
-    font-family: 'Bricolage Grotesque', sans-serif;
     font-weight: 300;
     font-size: 20px;
-    margin: 0 18px 10px 40px;
+    margin: 0 18px 10px 50px;
 }
 
 ol li::marker {
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 400;
 }

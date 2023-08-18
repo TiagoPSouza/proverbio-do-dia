@@ -3,3 +3,12 @@
     color: #000;
 }
 
+.containerMain .main-p {
+    border: 1px solid #000;
+    border-radius: 10px;
+    background: #abc;
+    color: #000;
+    margin: 25px 30px;
+    padding: 15px;
+    font-size: 16px;
+}

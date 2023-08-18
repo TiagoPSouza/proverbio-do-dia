@@ -1,3 +1,24 @@
 .containerFooter {
-    background: wheat;
+    background: #000;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.containerFooter p {
+    text-align: center;
+    font-size: 12px;
+    color: #777;
+}
+
+.containerFooter p a {
+    text-decoration: none;
+    color: #abc;
+    transition: .5s;
+}
+
+.containerFooter p a:hover {
+    color: #fff;
+    text-decoration: underline;
 }

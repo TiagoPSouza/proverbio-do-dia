@@ -36,6 +36,7 @@ export const Main = () => {
   const diaAtual = new Date().getDate();
   return (
     <main className='containerMain'> 
+        <p className='main-p'>"Explore a cada dia um novo provérbio bíblico em nosso site. Deixe-se envolver pela sabedoria atemporal das Escrituras, enquanto você descobre insights que podem iluminar seu caminho. Cada página traz uma nova pérola de inspiração. Aproveite este presente diário para enriquecer sua jornada."</p>
         {diaAtual === 1 && <Proverbio1 />}
         {diaAtual === 2 && <Proverbio2 />}
         {diaAtual === 3 && <Proverbio3 />}
@@ -67,6 +68,7 @@ export const Main = () => {
         {diaAtual === 29 && <Proverbio29 />}
         {diaAtual === 30 && <Proverbio30 />}
         {diaAtual === 31 && <Proverbio31 />}
+        <p className='main-p'>"Descubra a sabedoria e inspiração escondidas nos Provérbios Bíblicos a cada dia. Em apenas alguns minutos, você pode ganhar uma perspectiva valiosa sobre a vida, o amor, as escolhas e a conduta. Cada provérbio é uma pérola de conhecimento atemporal que pode iluminar seu caminho e enriquecer sua jornada. Ao ler um Provérbio Bíblico por dia, você estará investindo em seu crescimento pessoal e espiritual. Essa prática simples pode trazer reflexões profundas e insights que se traduzirão em uma vida mais significativa. Abra as páginas da sabedoria todos os dias e deixe que essas palavras antigas inspirem seu presente."</p>
     </main>
   )
 }
